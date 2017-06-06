@@ -6,6 +6,7 @@
   <author>Aumann Florian, Krehl Yann, Meißner Pascal</author>
   <maintainer email="asr-ros@lists.kit.edu">Meißner Pascal</maintainer>
   <license>BSD</license>
+  <url type="website">http://wiki.ros.org/asr_sick_lms_400</url>
   
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>roscpp</build_depend>
